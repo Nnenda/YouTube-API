@@ -119,6 +119,7 @@ END;
 <!doctype html>
 <html>
 <head>
+    <meta charset="utf-8">
     <title>YouTube Search</title>
     <link rel="stylesheet" href="style/bootstrap.css">
     <link rel="stylesheet" href="style/style.css">
